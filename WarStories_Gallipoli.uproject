@@ -61,6 +61,10 @@
 		{
 			"Name": "CascadeToNiagaraConverter",
 			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
+			"Enabled": true
 		}
 	]
 }
