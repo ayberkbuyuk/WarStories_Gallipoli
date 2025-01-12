@@ -55,16 +55,20 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OneClickControlRig",
-			"Enabled": true
-		},
-		{
 			"Name": "CascadeToNiagaraConverter",
 			"Enabled": true
 		},
 		{
 			"Name": "MotionWarping",
 			"Enabled": true
+		},
+		{
+			"Name": "MetaHuman",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
 		}
 	]
 }
